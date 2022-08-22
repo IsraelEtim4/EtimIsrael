@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EtimIsrael
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Angular JS to finish up Web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a full stack developer
+- 💞️ I’m looking to collaborate on programming jobs
 - 📫 How to reach me is through my email israeletim4@gmail.com or my Contact +2348065816383
 
 <!---
